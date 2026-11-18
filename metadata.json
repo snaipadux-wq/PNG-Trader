@@ -1,0 +1,6 @@
+{
+  "name": "DerivPulse",
+  "description": "Real-time 1-second scalping and take-profit trading bot powered by Deriv WebSocket market data APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
